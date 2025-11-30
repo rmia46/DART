@@ -1,0 +1,22 @@
+# 1. Virtual Environment (Never upload this!)
+venv/
+env/
+.Python
+lib/
+bin/
+
+# 2. Python Cache (Generated files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 3. Environment Variables (SECRETS)
+.env
+.env.local
+
+# 4. OS Files
+.DS_Store
+
+# 5. IDE Settings (Optional but good)
+.vscode/
+.idea/

@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+pydeck
+confluent-kafka
+python-dotenv
+google-cloud-aiplatform
+watchdog
